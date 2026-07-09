@@ -245,3 +245,69 @@ body {
   border-radius: 16px;
   border: 1px dashed var(--card-border);
 }
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  
+  .sidebar {
+    width: 100%;
+    padding: 1.5rem;
+    border-right: none;
+    border-bottom: 1px solid var(--card-border);
+    flex-shrink: 0;
+  }
+
+  .logo {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .sidebar nav {
+    display: flex;
+    overflow-x: auto;
+    gap: 0.5rem;
+    padding-bottom: 0.5rem;
+    /* Hide scrollbar for cleaner look */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .sidebar nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-item {
+    white-space: nowrap;
+    margin-bottom: 0;
+  }
+
+  .main-content {
+    padding: 1.5rem;
+    overflow-y: visible;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .header p {
+    font-size: 1rem;
+  }
+
+  .card {
+    padding: 1.5rem;
+  }
+
+  .card-header {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .card-title {
+    font-size: 1.3rem;
+  }
+}
