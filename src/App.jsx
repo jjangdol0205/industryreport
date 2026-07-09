@@ -6,8 +6,14 @@ function App() {
   const [data, setData] = useState([]);
   const [sectors, setSectors] = useState([]);
   const [activeSector, setActiveSector] = useState('All');
+  const [deferredPrompt, setDeferredPrompt] = useState(null);
 
   useEffect(() => {
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      setDeferredPrompt(e);
+    });
+
     // Sort data by date descending initially
     const sortedData = [...mockData].sort((a, b) => new Date(b.date) - new Date(a.date));
     setData(sortedData);
@@ -31,6 +37,16 @@ function App() {
 
   const sortedDates = Object.keys(groupedData).sort((a, b) => new Date(b) - new Date(a));
 
+  const handleInstallClick = async () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const { outcome } = await deferredPrompt.userChoice;
+      if (outcome === 'accepted') {
+        setDeferredPrompt(null);
+      }
+    }
+  };
+
   return (
     <div className="app-container">
       <aside className="sidebar">
@@ -50,8 +66,17 @@ function App() {
 
       <main className="main-content">
         <header className="header">
-          <h1>산업 트렌드 인사이트</h1>
-          <p>애널리스트 리포트 기반 1~2페이지 심층 요약 대시보드</p>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+            <div>
+              <h1>산업 트렌드 인사이트</h1>
+              <p>애널리스트 리포트 기반 1~2페이지 심층 요약 대시보드</p>
+            </div>
+            {deferredPrompt && (
+              <button className="install-button" onClick={handleInstallClick}>
+                📱 앱으로 설치하기
+              </button>
+            )}
+          </div>
         </header>
 
         <div className="timeline">
@@ -95,6 +120,14 @@ function App() {
                             <div key={idx} className="pick-tag">{pick}</div>
                           ))}
                         </div>
+                      </div>
+                    )}
+                    
+                    {item.pdf_url && (
+                      <div className="pdf-download">
+                        <a href={`${import.meta.env.BASE_URL}${item.pdf_url}`} target="_blank" rel="noopener noreferrer" className="pdf-button" download>
+                          📥 원본 리포트 다운로드 (PDF)
+                        </a>
                       </div>
                     )}
                   </article>
