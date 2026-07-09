@@ -1,5 +1,306 @@
 [
   {
+    "id": "A1b2C3d4E5",
+    "sector": "IT_전기전자",
+    "date": "2026-07-10",
+    "title": "[반도체-소부장] 불확실할 때에는 숫자를 보자",
+    "source": "Analyst Report",
+    "insights": [
+      "**Robust DRAM and NAND Export Growth**: South Korea's memory semiconductor exports for June 2026 reached an impressive $1.38 billion on a daily average basis, representing a staggering 219% year-over-year (YoY) growth. Breaking this down, DRAM exports surged by 341% YoY to $530 million, while NAND exports climbed 262% YoY to $120 million. MCP and SSD exports also demonstrated robust growth, increasing by 145% and 312% YoY, respectively, highlighting the continued strength in memory prices driven by acute supply shortages.",
+      "**Short-term Shipment Adjustments vs. Fundamentals**: While the DRAM export value saw a 16% month-over-month (MoM) decline in June, this is largely attributed to variations in shipment timing rather than fundamental demand weakness. Conversely, NAND (+24%), MCP (+13%), and SSD (+11%) all recorded MoM growth, confirming that the solid upward trajectory in memory pricing across the board remains completely intact. The July export data will be a critical indicator to watch for the continuation of this trend.",
+      "**Market Volatility and Big Tech Client Risks**: The KOSPI index recently faced a 3.8% decline over two consecutive weeks, pressured by Meta-related profitability concerns and Apple's price hikes. Samsung Electronics and SK Hynix fell by 8.8% and 9.3%, respectively, underperforming the index. These events have sparked fears of increased burdens on tech clients. However, despite these customer-side headwinds, the fundamental supply shortage in the memory market remains unresolved, meaning the overarching price hike trend is highly unlikely to be derailed.",
+      "**Q3 Memory Price Forecasts and Earnings Upgrades**: The magnitude of memory price increases in the third quarter of 2026 is highly likely to exceed current market estimates. As corporate earnings estimates are continuously revised upwards to reflect these stronger-than-expected price hikes, semiconductor stock prices are expected to remain solid and resilient against broader macroeconomic volatility.",
+      "**Front-end vs. Back-end Equipment Stocks Dynamics**: The KOSDAQ index rebounded by 2%, shifting away from the sluggish trend seen since May. While front-end equipment stocks experienced a recent correction following a rapid short-term rally of over 60% in a single month, back-end equipment stocks within the coverage universe have remained relatively strong. This indicates a natural and healthy sector rotation, moving from front-end to back-end players as the cycle matures.",
+      "**Samsung Electronics Preliminary Q2 Earnings Preview**: Samsung Electronics' preliminary Q2 2026 earnings report is highly anticipated. Hana Securities estimates an operating profit of 9.2 trillion KRW. The wide range of analyst estimates in the market stems from varying assumptions regarding the reflection of bonus-related provisions. If Q1 provisions are fully reflected alongside Q2 provisions, the total operating profit could easily reach the mid-8 trillion KRW range. The market's focus should be on how much annual estimates are upgraded post-announcement.",
+      "**Focusing on Fundamentals Over Macro Uncertainty**: The report strongly advises investors to focus on core fundamentals to navigate current market uncertainties. Strong LPDDR demand from Nvidia is acting as a primary, tangible driver for structural DRAM price increases. Furthermore, HBM price negotiations slated for 2027 present another significant, highly visible catalyst for structural earnings upgrades.",
+      "**Global Semiconductor CapEx Expansion Cycle**: The report details a massive, multi-year rebound in both DRAM and NAND capital expenditures (CapEx) globally. Samsung and SK Hynix are projected to substantially increase their CapEx investments through 2026, primarily targeting advanced nodes (like 1a/1b nm) and HBM production capacities to aggressively address the ongoing, severe supply-demand imbalance.",
+      "**DRAM and NAND Pricing Dynamics**: Spot and contract prices for both DDR4 and DDR5, as well as TLC NAND, are exhibiting a clear, sustained upward trend. Notably, the premium gap between spot and contract prices is rapidly narrowing, signaling a stabilization in the pricing environment and robust, structural underlying demand from server and enterprise clients.",
+      "**Regional Export Breakdown and Production Hubs**: The regional distribution of memory exports highlights the growing, dominant importance of key manufacturing hubs like Pyeongtaek, Cheongju, and Asan in South Korea. The data suggests an increasing concentration of advanced memory production in these specific regions, catering almost exclusively to global tech giants and hyperscalers.",
+      "**Equipment Import Trends as Leading Indicators**: Semiconductor equipment imports, particularly in critical areas like lithography, deposition, and etching, are showing definitive signs of recovery. Imports from the Netherlands (primarily ASML) remain absolutely dominant in lithography, while the US and Japan lead in etching and deposition, respectively. This points to a massive resumption of facility investments by domestic chipmakers.",
+      "**Server and AI Data Center Demand Outlook**: Global server shipments are forecast to grow steadily and aggressively, driven entirely by the unabated expansion of AI data centers. Leading OEMs like HPE and Dell, alongside aggressive Chinese players, are dramatically ramping up production to meet the surging, insatiable demand for high-performance computing infrastructure.",
+      "**Mobile and PC Market Stabilization**: Smartphone and PC shipments are showing definitive signs of stabilization and modest, single-digit growth. The Chinese smartphone market, in particular, is witnessing a tangible recovery in sales volume, which bodes well for mobile DRAM and NAND consumption in the coming quarters.",
+      "**Valuation Analysis of Global Semiconductor Peers**: The report provides a comprehensive valuation comparison of global semiconductor companies, unequivocally highlighting the relatively attractive P/E and P/B multiples of Korean memory makers and domestic equipment suppliers compared to their significantly more expensive US and Taiwanese counterparts.",
+      "**Strategic Recommendation - Maintain Overweight**: Maintain a strong 'Overweight' stance on the memory sector. The overarching investment strategy should relentlessly focus on the undeniable upward trajectory of memory prices and the ensuing corporate earnings growth. The current, short-term market fluctuations present an excellent buying opportunity for fundamentally sound companies."
+    ],
+    "top_picks": [
+      "삼성전자",
+      "SK하이닉스",
+      "한미반도체",
+      "주성엔지니어링"
+    ],
+    "pdf_url": "pdfs/A1b2C3d4E5.pdf"
+  },
+  {
+    "id": "F6g7H8i9J0",
+    "sector": "IT_전기전자",
+    "date": "2026-07-10",
+    "title": "중국 반도체 - 군체- CXMT가 이끄는 반도체 생태계에 주목",
+    "source": "Analyst Report",
+    "insights": [
+      "**The Dawn of the Chinese Semiconductor Boom**: The Chinese semiconductor industry is undeniably entering an unprecedented boom phase, primarily spearheaded by the massive expansion of the domestic memory value chain. This structural resurgence is driving significant stock price appreciation for key players within the CXMT (ChangXin Memory Technologies) supply chain, such as Biwin and GigaDevice, which are consistently and dramatically outperforming broader market indices.",
+      "**CXMT and YMTC - Beyond Simple Corporate IPOs**: The highly anticipated IPOs of CXMT and YMTC (Yangtze Memory Technologies Corp) represent far more than routine corporate liquidity events. They signify the critical, watershed moment when China's decade-long, state-sponsored quest for semiconductor self-reliance is finally being tested, validated, and monetized by the public capital markets.",
+      "**CXMT's Landmark IPO Details and Structure**: CXMT's official subscription date has been confirmed for July 16, 2026, trading under the ticker 688825 on the STAR Market. The IPO structure uniquely combines massive strategic allocations (50%) with institutional and retail tranches. Due to its listing on the STAR Market, direct access for foreign and retail investors is highly restricted, making targeted ETF investments the most viable entry point.",
+      "**Investment Strategy - The 'Global X China Semiconductor ETF'**: To optimally capitalize on this explosive sectoral boom, the report strongly recommends the Global X China Semiconductor ETF (3191 HK). This ETF has surged 28.9% over the past month alone, tracking the Factset China Semiconductor Index. It offers broad, liquid exposure to crucial memory and equipment companies, heavily weighting GigaDevice, Cambricon, NAURA, and AMEC.",
+      "**Transition to Massive Long-Term Agreements (LTAs)**: Global memory supply is experiencing a severe, persistent shortage, driven by the structural reallocation of advanced wafer capacity towards HBM production. Consequently, CXMT has entered into a massive 3-5 year LTA with Tencent, valued at over 20 billion RMB (approx. 4.58 trillion KRW). This aggressive shift underscores a definitive seller's market and immense pricing power for domestic memory manufacturers.",
+      "**Aggressive Upward Revisions in Memory Pricing**: Driven by the severe, unyielding supply-demand imbalance, market research firms like Trendforce are sharply revising their price forecasts upwards. Q1 2026 price hike estimates for DRAM and NAND have been aggressively elevated from +33~38% QoQ to an astonishing +55~60% QoQ, indicating explosive, historic ASP growth.",
+      "**CXMT's Exponential ASP Trajectory**: The report projects CXMT's DRAM ASP to reach $0.35/Gb in 2025 and mathematically surge by 204% YoY to $1.23/Gb in 2026. While still trailing global industry leaders like SK Hynix and Samsung Electronics, this dramatic, triple-digit ASP improvement will fundamentally and permanently transform CXMT's profitability profile.",
+      "**Regulatory Tailwinds Accelerating Tech IPOs**: The Chinese Securities Regulatory Commission (CSRC) has aggressively reactivated the STAR Market's 'Rule 5' listing criteria for unlisted companies, expanding it to encompass advanced sectors like AI and deep tech. Furthermore, a newly established pre-IPO review system allows core technology firms to communicate confidentially with exchanges, significantly accelerating the listing process.",
+      "**Accelerated Listing Timeline for YMTC Expected**: Following CXMT's incredibly rapid 148-day journey from application to full approval, YMTC is expected to experience a similarly expedited, fast-tracked process, given its elite status as a critical national strategic project. The report confidently anticipates YMTC's blockbuster listing to materialize by late Q4 2026.",
+      "**The 'Big Fund' Phase 3 - A Massive Strategic Shift**: The deployment of the 'Big Fund' Phase 3 (with a registered capital of 344 billion RMB) marks a clear, calculated strategic departure from Phase 1. Approximately 70% of Phase 3 capital is strictly allocated to alleviating critical, existential bottlenecks in advanced process equipment and materials, targeting areas with historically low localization rates.",
+      "**M&A and Forced Consolidation in the Equipment Sector**: The recent acquisition of CMP equipment maker SIZONE by AMEC perfectly exemplifies the Big Fund Phase 3's strategy of fostering massive national champions through aggressive consolidation. This transaction involved significant capital injections from state-backed entities, highlighting the government's highly active role in restructuring the domestic supply chain.",
+      "**Transitioning to a Market-Driven Ecosystem**: The accelerating pace of Big Fund Phase 1 divestments, coupled with the massive IPOs of CXMT and YMTC, clearly suggests that the Chinese semiconductor industry is transitioning from a phase of raw, state-led capacity building to a much more self-sustaining, hyper-competitive, capital market-driven growth model.",
+      "**CXMT's Aggressive Capacity Expansion Plans**: CXMT is embarking on a massive, unprecedented capacity expansion phase beginning in 2027. Its existing fabs in Hefei and Beijing are already operating at near-full capacity (95%+). With the addition of new lines, total wafer capacity is projected to reach an astounding 350,000 wafers per month by the end of 2026.",
+      "**The Shanghai Fab - A Strategic Mega-Hub**: The massive new Shanghai fab currently under construction is slated to become CXMT's absolute core strategic production base. Its designed capacity is 2-3 times larger than the Hefei facility, with critical equipment installation targeted for late 2026 and full, mass-scale operation expected by 2028.",
+      "**Rapid Advancements in HBM and Advanced Nodes**: CXMT is aggressively developing HBM3E using its G4 node process, and is currently providing early samples to key domestic hyperscalers like Huawei, Alibaba, and Cambricon. The company is rapidly, systematically narrowing the technological gap with the global memory 'Big 3', currently estimated at approximately three years.",
+      "**Massive Supply Chain Beneficiaries**: The domestic equipment sector stands to gain immensely from CXMT's staggering 17.1 billion RMB (approx. 3.9 trillion KRW) backlog of unfulfilled equipment orders. Key, targeted beneficiaries include NAURA (etching/deposition), AMEC (deep trench etching for DRAM/HBM), and HWATSING (CMP equipment), all of which are rapidly securing dominant, monopolistic market shares within China."
+    ],
+    "top_picks": [
+      "Global X China Semiconductor ETF",
+      "NAURA",
+      "AMEC",
+      "HWATSING",
+      "Biwin",
+      "GigaDevice",
+      "Montage"
+    ],
+    "pdf_url": "pdfs/F6g7H8i9J0.pdf"
+  },
+  {
+    "id": "K1l2M3n4O5",
+    "sector": "건설",
+    "date": "2026-07-10",
+    "title": "[건설] (26-07) 무난한 실적, 밝아지는 전망",
+    "source": "Analyst Report",
+    "insights": [
+      "**Construction Sector Overview and Sentiment Shift**: Despite recent severe headwinds, including a 9.0% decline in the construction sector index over the past month, the macroeconomic outlook is turning increasingly positive. The highly anticipated announcement of the 'Three Major Mega Projects' by the South Korean government has forcefully catalyzed a shift in sentiment, pivoting the market's focus entirely towards immense, visible future order opportunities.",
+      "**Entering an Unprecedented Era of Mega Projects**: The construction industry is currently standing on the precipice of an absolutely unprecedented wave of massive domestic and international capital investments. This includes the rapid global restructuring of the energy market (driving massive nuclear and LNG projects) and South Korea's highly aggressive push to build 'AI Data Centers' and advanced semiconductor fab infrastructure.",
+      "**Q2 2026 Earnings Preview - Solid and Stable**: Q2 earnings for major construction firms are largely expected to securely meet or slightly exceed consensus estimates. While top-line housing revenues are normalizing downward as peak 2021-2022 projects conclude, overall operating profitability is tangibly improving due to downward revisions in estimated costs for the remaining, high-margin order backlog.",
+      "**Key Q2 Profitability Drivers**: Several critical variables will positively impact Q2 earnings, including highly favorable foreign exchange rates massively boosting the KRW value of overseas revenues, one-off cost settlement gains from massive projects like the Shaheen Plant, and substantially increased captive revenues from affiliates (e.g., Samsung E&A, P5 project).",
+      "**The AI Data Center Catalyst - Immediate Momentum**: In the short to medium term, the 가장 potent and visible momentum driver for construction stocks is the explosive, structural expansion of 'AI Data Centers'. Backed by extremely robust government support, these specific projects boast incredibly rapid commercialization timelines and relatively short construction periods (1.5 to 3 years), leading to immediate and exceptionally high earnings contributions for builders.",
+      "**Massive Scale of AI Data Center Investments**: The government's comprehensive plan outlines a staggering 18.4GW of data center capacity to be systematically built. Phase 1 (8.4GW by 2029) alone requires an estimated, monumental investment of 550 trillion KRW, with pure construction costs strictly projected to range between 110 trillion and 150 trillion KRW, creating a super-cycle for domestic contractors.",
+      "**GS E&C as the Undisputed Top Pick**: GS E&C is overwhelmingly highlighted as the absolute top pick for July, driven entirely by its deeply integrated and comprehensive approach to the entire data center value chain. The GS Group is intimately involved in every single stage: development/operation (GS AI Infra), advanced cooling solutions (GS Caltex), power supply (GS EPS), and final construction (GS E&C, Xi C&A).",
+      "**GS E&C's Unmatched Proven Track Record**: GS E&C possesses an unparalleled, market-leading track record, having successfully constructed 16 hyper-scale data centers since 2006. It currently has an incredible 11 new mega-projects in the pipeline. This extensive, specialized experience positions the company perfectly to capture a wildly disproportionate share of the upcoming mega-project contracts.",
+      "**Valuation Re-rating and Growth Trajectory for GS E&C**: GS E&C's valuation has been relatively depressed following the sale of GS Inima. However, the highly concrete plans for massive AI data centers provide a clear, undeniable, and powerful growth engine. After a stabilization period through 2026, the company is poised for a massive surge in new orders in 2027 and exponential earnings growth in 2028.",
+      "**Housing Market Dynamics - Stark Polarization**: The housing market exhibits a stark, systemic polarization. The capital region (Seoul/Gyeonggi) is experiencing incredibly robust demand, evidenced by rapidly rising transaction volumes, steady price increases, and immensely strong leading indicators like the purchase dominance index. Conversely, provincial markets remain utterly sluggish due to structural demographic concerns and lingering un-started PF risks.",
+      "**Government Policy Pivot Towards Balanced Regional Growth**: Recognizing the rapidly widening regional gap, future government housing policies are highly likely to aggressively pivot towards stimulating artificial demand in provincial areas. Specific, targeted measures like tax exemptions and special state purchases of unsold inventory aim to facilitate a gradual, state-backed recovery in regional housing markets.",
+      "**Crucial Recovery in Nationwide Construction Starts**: A highly positive, undeniably bullish signal is the 27% YoY increase in cumulative nationwide housing starts from January to May 2026. This tangible revival in breaking ground is a absolutely crucial leading indicator for massive future construction revenue and a massive surge in building materials demand.",
+      "**Cement and Building Materials Sector Rebound**: The structural uptick in housing starts is directly translating into a massive, multi-year recovery for building materials companies. Cement shipments are reliably estimated to have increased by 1-5% YoY in the first half of 2026. As construction significantly progresses, cement demand is expected to accelerate explosively in the latter half of the year.",
+      "**Nuclear Power Momentum Reigniting**: While hyper-expectations for nuclear power plant orders ran exceptionally high in the first half of the year, actual project awards have been slow. However, immense momentum is expected to reignite forcefully post-September, catalyzed by massive potential milestones like officially securing tenants for the US Fermi plant and the final formalization of the massive Vietnam nuclear project.",
+      "**Overseas Plant Market Strategy**: The global energy infrastructure market remains highly fertile, but actual FID (Final Investment Decision) processes for multi-billion dollar LNG and nuclear projects inherently require extensive time. Investors should strategically temper short-term expectations for overseas orders and instead relentlessly focus on the high-visibility, immediately accretive domestic mega-projects, particularly AI data centers."
+    ],
+    "top_picks": [
+      "GS건설",
+      "삼성물산",
+      "삼성E&A",
+      "현대건설",
+      "대우건설"
+    ],
+    "pdf_url": "pdfs/K1l2M3n4O5.pdf"
+  },
+  {
+    "id": "B7X9F2A1Q4",
+    "sector": "금융_은행_증권",
+    "date": "2026-07-10",
+    "title": "[은행] 2Q26 Pre. 여전히 최선의 선택",
+    "source": "Analyst Report",
+    "insights": [
+      "2Q26 Earnings Preview: Combined controlling net profit for coverage banks is estimated at 6.6 trillion KRW, representing a solid 6.5% YoY increase and demonstrating robust profitability across the sector.",
+      "Loan Growth & Margins: Won-denominated loans are growing at an average of 1.2% QoQ, primarily driven by strong corporate loan demand as household loan regulations persist and corporate bond demand weakens. Bank Net Interest Margins (NIM) are expected to improve by an average of 2bps amid the ongoing rise in market interest rates.",
+      "Non-Interest Income: While bond trading valuation gains remain sluggish, bank and securities fee income continues to recover, expected to increase by an average of 8.5% QoQ.",
+      "Provisioning Trends: Combined provisioning for the quarter is estimated at 2.4 trillion KRW, up 8.1% QoQ. This increase is attributed to recurring provisions from end-of-half corporate credit evaluations and specific provisions related to the JoongAng Group.",
+      "Impact of Corporate Restructuring: Provisioning risks related to the JoongAng Group affiliates' rehabilitation filing are highly limited. Maximum provisioning per bank is capped at around 50 billion KRW. Exposures are heavily weighted toward senior tranches, with Hana Financial at 350B KRW, Woori Financial at 300B KRW, KB Financial at 17B KRW, and Shinhan at 10B KRW, minimizing the likelihood of large-scale credit losses.",
+      "Hong Kong H-Index ELS Reversals: Upon finalization of the sanctions review, banks are expected to see reversals of ELS-related provisioning liabilities of up to 80 billion KRW per bank, potentially recognized across the second and third quarters.",
+      "Sector Strategy & Shareholder Returns: The sector maintains an 'Overweight' rating. Large banks are projected to achieve a 10% annual net profit growth rate, fueled by NIM improvements and enhanced contributions from securities subsidiaries. Combined with aggressive shareholder return policies, the sector offers strong defensive appeal and solid downside support during market adjustments.",
+      "Capital Adequacy: CET1 capital ratios are expected to remain stable within target management levels, even amid exchange rate pressures, benefiting from structural foreign exchange position applications and shorter operational risk application periods.",
+      "Top Picks Rationale: KB Financial Group (KB금융) and Shinhan Financial Group (신한지주) are highlighted as top picks. These selections are based on expectations of large-scale share buybacks in the second half of the year and significant ROE improvements driven by the strong performance of their respective securities subsidiaries."
+    ],
+    "top_picks": [
+      "KB금융",
+      "신한지주"
+    ],
+    "pdf_url": "pdfs/B7X9F2A1Q4.pdf"
+  },
+  {
+    "id": "M4K8L9P2R6",
+    "sector": "자동차",
+    "date": "2026-07-10",
+    "title": "[자동차] 2Q26 Preview- 내러티브, 그 다음",
+    "source": "Analyst Report",
+    "insights": [
+      "2Q26 Auto Sector Pitch: The sector is entering a phase of accelerated inventory depletion, with Hyundai Motor's global inventory reaching 1.9 months. This marks the beginning of xEV volume expansion, fueled by price increases that successfully pass on raw material cost hikes. The temporary fading of robotics and autonomous driving premiums presents a clear buying opportunity.",
+      "Earnings Momentum & Quality: Hyundai and Kia are projected to report operating profits of 3.3 trillion KRW and 2.8 trillion KRW, respectively, aligning with market expectations. Crucially, the quality of earnings is improving, with Kia, Hyundai Mobis, and Hankook Tire expected to show clear YoY profit growth.",
+      "Structural Shift to HEV Super Cycle: The US market is experiencing a structural decline in incentive costs as the supply glut bypasses the High-Margin Hybrid Electric Vehicle (HEV) segments. Driven by supply chain bottlenecks from US import tariffs and low US new car retail inventory (currently at 76 days), the HEV super cycle is commencing, significantly bolstering pricing power.",
+      "HMGMA & US Market Share: The operation of the large-scale HMGMA plant, now in its third year, is solidifying Hyundai and Kia's stable 12% US market share. The success of the next-generation TMED-II hybrid system will be tested starting in 3Q26 with the deployment of Sportage and Tucson models in the US, acting as a major earnings trigger.",
+      "Parts & Tire Sector Dynamics: Price transferability is strongly evident in the AS (After Sales) parts and Replacement Equipment (RE) tire markets. Hyundai Mobis's AS parts division anticipates rapid growth in the US, benefiting from a 15% tariff imposed on competitors' products starting in 2Q26. Hankook Tire's ASP is approaching 120,000 KRW, driven by the replacement cycle of premium SUVs.",
+      "Hyundai Motor (005380): Target price adjusted to 800,000 KRW, reflecting a P/E of 13x for 2027E. Despite a slight YoY decline in 2Q26 global wholesale volumes to 990,000 units, ASP increases are effectively offsetting exchange rate fluctuations and volume/incentive dilution, with 3Q26 operating profit expected to surge by 36.8% YoY.",
+      "Kia (000270): Target price maintained at 250,000 KRW. 2Q26 sales are estimated at 32.7 trillion KRW (+11.4% YoY) with an operating profit of 2.8 trillion KRW (+2.9% YoY). Global wholesale volumes increased by 4.4% YoY. The aggressive volume expansion from the HMGMA Sportage production line will be a key catalyst in the second half.",
+      "Hyundai Mobis (012330): Target price maintained at 900,000 KRW. Expected 2Q26 operating profit of 997.9 billion KRW (+14.7% YoY). The AS business margin is experiencing structural improvements, supported by favorable exchange rates and a reduction in agency commissions, reinforcing its role as a stable cash cow.",
+      "Hankook Tire & Technology (161390): Target price maintained at 100,000 KRW. 2Q26 operating profit is projected to jump 43.9% YoY to 509 billion KRW, benefiting from favorable raw material pricing and successful price hikes in the US and European markets."
+    ],
+    "top_picks": [
+      "기아",
+      "현대모비스",
+      "한국타이어앤테크놀로지"
+    ],
+    "pdf_url": "pdfs/M4K8L9P2R6.pdf"
+  },
+  {
+    "id": "Y2W5V3Z8C1",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "AI 시장의 컬러가 바뀌었다 - Good Enough 모델, 추론 슈퍼사이클, 그리고 AI 주권",
+    "source": "Analyst Report",
+    "insights": [
+      "Market Paradigm Shift to 'Good Enough' Economics: The AI market focus has transitioned from 'creating the smartest model' to 'deploying affordable, sufficiently capable models for enterprise use.' While only 0.2% of users operate top-tier 'Fable' models, 99.8% utilize basic, cost-effective AI. This disparity creates a 'buffer time'—a crucial window before frontier models become universally accessible—triggering an inference super-cycle where cheaper intelligence leads to exponential usage growth.",
+      "The Three Axes of the New AI Era: The report identifies three pivotal drivers shaping the next investment phase: 1) Financial Backing, with Nvidia establishing a 'central bank' model to fund AI infrastructure; 2) AI Sovereignty, moving enterprises from renting intelligence to owning AI production means; and 3) The Data Wall, highlighting the exhaustion of public web data and the rising immense value of proprietary corporate internal data.",
+      "Nvidia (NVDA) as the AI Central Bank: Nvidia has evolved beyond a chip vendor into a financial partner. By providing 'minimum revenue guarantees' (backstops) to GPU cloud startups, Nvidia enables these startups to secure long-term bank loans. In exchange, Nvidia captures 40-60% of excess lease profits, transforming one-off hardware sales into recurring, volume-based revenue streams while actively funding the inference boom.",
+      "Palantir (PLTR) and the 'AI Sovereignty' Stack: Palantir is capitalizing on the demand for AI Sovereignty. Its Ontology platform acts as the control plane that links corporate data, access rights, and business rules. Through partnerships like the one with Nvidia's Nemotron open models, Palantir allows enterprises to train models on their proprietary data and retain complete ownership and control over the resulting intelligence, creating massive switching costs.",
+      "Amazon (AMZN) and Infrastructure Deflation Absorption: AWS Bedrock's true lock-in lies in its enterprise governance—security, audit, and data gravity—rather than model exclusivity. As token costs plummet (up to 97% over two years), Amazon absorbs deflationary pressures through economies of scale, exceptionally high global utilization rates, and the deployment of proprietary, cost-effective chips (Inferentia/Trainium).",
+      "The 'Task Economy' and the Value of Dark Data: With public internet data nearly depleted, frontier AI labs are heavily investing in 'expert data'—paying professionals to document problem-solving processes. This has birthed the Task Economy, projected to be a $1 trillion market. Consequently, a company's internal 'dark data' (undocumented workflows, expert implicit knowledge, decision histories) has emerged as the most critical and expensive asset for training specialized, highly capable AI models.",
+      "Three Investment Tests for the Next AI Phase: The report screens companies using three criteria: 1) Asymmetry of switching costs (platform stickiness over model loyalty); 2) Deflation adaptability (growing profits despite falling compute costs); and 3) Moats built on data sovereignty and regulatory compliance. Palantir, Amazon, and Nvidia emerged as the definitive winners, as they control the vital gateways through which intelligence must pass to reach enterprises and nations."
+    ],
+    "top_picks": [
+      "팔란티어",
+      "아마존",
+      "엔비디아"
+    ],
+    "pdf_url": "pdfs/Y2W5V3Z8C1.pdf"
+  },
+  {
+    "id": "A1B2C3D4E5_2",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "ESG - 에너지안보, K태양광 생존이 필수",
+    "source": "Analyst Report",
+    "insights": [
+      "글로벌 태양광 발전 시장의 압도적 지위 확보: 2025년 기준 글로벌 신규 발전원 시장에서 태양광은 510GW가 설치되며 신규 발전용량의 65% 이상을 차지하는 압도적인 메인스트림으로 자리 잡았습니다. 2032년부터는 누적 전력 생산량 기준으로도 전 세계 선두에 오를 것으로 예상되며, 이는 지속적인 모듈 가격 하락과 발전 효율 증가가 맞물려 타 화석 연료 및 재생에너지 대비 탁월한 경제성을 달성했기 때문입니다.",
+      "중국의 밸류체인 독점과 글로벌 에너지 안보 위협: 현재 글로벌 태양광 시장은 중국이 완벽히 장악하고 있습니다. 폴리실리콘, 잉곳, 웨이퍼의 글로벌 점유율이 90%를 상회하며, 셀과 모듈 역시 글로벌 출하량의 80% 이상을 중국 기업들이 독점하고 있습니다. 특정 국가에 대한 에너지 의존도가 심화됨에 따라 서방 국가들은 이를 심각한 에너지 안보 위기로 인식하고 공급망 다변화를 서두르고 있습니다.",
+      "미국과 유럽의 강력한 자국 산업 보호 및 육성 정책: 미국은 IRA 내 AMPC(첨단제조생산세액공제)와 고율의 대중 관세 장벽을 결합하여 자국 내 태양광 제조 캐파를 공격적으로 확대하고 있습니다. 유럽(EU) 또한 REPowerEU와 넷제로산업법(NZIA), 산업가속화법안(IAA)을 도입하여 2030년까지 역내 태양광 등 핵심 기술 제조 역량을 40% 이상으로 끌어올리고 중국산 의존도를 낮추기 위한 다각도의 지원책을 가동 중입니다.",
+      "국내 재생에너지 보급 현황의 위기와 시급성: 한국은 현재 OECD 국가 중 재생에너지 보급률 최하위를 기록하고 있습니다. RE100 가입 기업의 증가와 EU의 탄소국경조정제도(CBAM) 등 글로벌 무역 장벽에 대응하기 위해서는 국내 재생에너지 설치량을 과거 대비 3배 이상인 연간 10GW 수준으로 단기간 내에 끌어올려야만 수출 주도형 국가로서의 산업 경쟁력을 유지할 수 있습니다.",
+      "국내 태양광 생태계의 붕괴 및 자립화 정책의 필요성: 2025년 국내에 보급된 태양광 모듈의 약 69.3%가 중국산으로 채워지는 등 국내 제조업 생태계가 심각한 타격을 입었습니다. 향후 국내 설치 물량의 70~80%를 국산으로 대체하기 위해, 미국식 K-AMPC(직접환급형 세액공제)의 즉각적인 도입과 함께 국가첨단전략산업기술로 태양광을 지정하여 획기적인 R&D 및 설비 투자 보조금 지급이 요구됩니다.",
+      "BESS(배터리 에너지 저장장치)와 재생에너지의 시너지 폭발: 재생에너지의 태생적 한계인 간헐성 및 전력망 포화에 따른 마이너스 전기 요금 문제를 해결하기 위해 BESS의 설치가 필수불가결해졌습니다. 미국 BESS 설치 용량은 2030년까지 연평균 21%, 유럽은 33% 성장할 전망이며, 태양광과 BESS를 결합한 복합 발전소의 LCOE가 천연가스 피커 발전소보다 낮아져 텍사스 및 캘리포니아 등에서 폭발적인 수요를 견인하고 있습니다.",
+      "AI 데이터센터 발 전력 수요 급증과 RE100: AI 데이터센터의 확산으로 인해 글로벌 전력 소비가 급증(2030년까지 데이터센터 전력 소모량 1,200TWh 예상)하는 가운데, 구글, 아마존, 메타 등 대형 빅테크 기업들은 100% 재생에너지 전력 공급(RE100)을 원칙으로 삼고 있습니다. 이에 따라 신속하게 대규모 전력 공급이 가능한 태양광+ESS 모델이 데이터센터 전력 수급의 최우선 해결책 부상했습니다.",
+      "유휴 부지(영농형 및 산업단지)를 활용한 태양광 잠재력 극대화: 한국의 협소한 국토 면적 한계를 극복하기 위해 기존 절대농지(74만 헥타르)의 이중 활용을 허용하는 '영농형 태양광' 규제 완화가 필수적이며, 이를 통해 200GW 이상의 설치 잠재량을 확보할 수 있습니다. 또한, 기술적 잠재량이 14.5GW에 달하는 산업단지 내 공장 지붕 태양광 사업에 대한 인허가 간소화 및 금융 지원 제도가 절실합니다.",
+      "트럼프 행정부 재집권 리스크 대비: 미국 내 공화당 지역구에 태양광 제조 시설 등 클린 에너지 투자가 집중되어 있어 트럼프 전 대통령이 재집권하더라도 일자리 창출 효과 때문에 AMPC와 같은 핵심 인센티브가 완전히 폐지될 가능성은 낮습니다. 오히려 자국 내 제조업 부흥 기조 하에 타국 수입품을 배제하는 정책이 심화될 것이므로, 한화솔루션 등 현지 선점 기업의 반사이익이 커질 수 있습니다.",
+      "차세대 기술 경쟁(탠덤 셀)에서의 우위 선점: 기존 실리콘 기반 범용 태양광 셀 시장에서의 중국발 가격 치킨게임에서 벗어나기 위해, 페로브스카이트-실리콘 탠덤 셀(한계 효율 30% 이상) 상용화를 위한 정부 차원의 메가 프로젝트 및 공용 파일럿 라인(테스트베드) 구축이 매우 시급히 이루어져야 합니다.",
+      "투자 전략 및 최선호 종목(Top Picks) 도출: 전 세계가 중국산 모듈의 시장 잠식을 억제하고 자국 에너지 안보를 강화하려는 정책적 패러다임 전환기에, 미국 내 대규모 태양광 밸류체인을 수직 계열화한 First Solar와 한국의 한화솔루션은 중국을 견제하는 서방 진영의 핵심 대안으로 장기적 성장 가치가 매우 높습니다."
+    ],
+    "top_picks": [
+      "한화솔루션",
+      "First Solar",
+      "HD현대에너지솔루션"
+    ],
+    "pdf_url": "pdfs/A1B2C3D4E5_2.pdf"
+  },
+  {
+    "id": "F6G7H8I9J0_2",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "Weekly Petroleum Status Report (20260703)",
+    "source": "Analyst Report",
+    "insights": [
+      "정유 설비 가동 및 원유 투입 현황: 2026년 7월 3일 기준 미국의 정유 공장 원유 투입량(Refinery Inputs)은 일평균 1,702만 배럴로 전주 대비 17.3만 배럴 소폭 감소했습니다. 정제 설비 가동률(Capacity Utilization)은 95.8%를 기록하여, 여름철 견조한 연료 수요에 대응하기 위한 매우 높은 수준의 가동 상태를 지속적으로 유지하고 있습니다.",
+      "석유 제품별 주간 생산량 동향: 미국의 주간 휘발유(Motor Gasoline) 총 생산량은 일평균 981.7만 배럴, 중간 유분(Distillate Fuel Oil, 디젤 및 난방유 등) 생산량은 일평균 519.5만 배럴, 등유형 제트 연료(Kerosene-Type Jet Fuel)는 215.2만 배럴을 각각 기록했습니다. 이는 전반적으로 전주 대비 큰 변동 없이 안정적인 정제유 공급이 이루어지고 있음을 시사합니다.",
+      "글로벌 원유 및 석유 제품 수입 추이: 미국의 주간 원유 수입량은 일평균 562.9만 배럴로 전주 대비 35.1만 배럴 증가했습니다. 최근 4주간 평균 원유 수입량은 540만 배럴로 전년 동기 대비 약 11.4% 감소한 수준이며, 휘발유(혼합용 포함)와 중간 유분의 수입량은 각각 일평균 42.3만 배럴, 8.7만 배럴을 기록하며 양호한 수급 조절이 이루어지고 있습니다.",
+      "국가별 상위 원유 수입망 분석: 주요 원유 수입국 비중을 살펴보면 캐나다가 일평균 380.1만 배럴로 전체 수입의 61.7%를 차지하는 최대 공급국 지위를 공고히 했습니다. 그 뒤를 이어 멕시코(26만 배럴, 7.0%), 베네수엘라(48.3만 배럴, 3.5%), 브라질(17.7만 배럴, 3.3%) 순이었으며, 사우디아라비아와 이라크로부터의 수입은 해당 주간에 0으로 집계되어 수입선의 뚜렷한 미주 내륙 및 중남미 편중 현상이 관찰됩니다.",
+      "미국 내 상업용 원유 재고 증감: 전략비축유(SPR)를 제외한 미국의 상업용 원유 재고는 전주 대비 300만 배럴 증가한 4억 1,140만 배럴을 기록했습니다. 재고가 증가했음에도 불구하고 이는 해당 시기의 최근 5년 평균 원유 재고량 대비 여전히 약 6% 낮은 수치로, 기초적인 원유 수급 펀더멘털은 타이트한 상황을 보여줍니다.",
+      "전략비축유(SPR) 재고의 이례적 대폭 감소: 미국의 전략비축유(Strategic Petroleum Reserve)는 해당 주간에 전주(3억 2,570만 배럴) 대비 620만 배럴 크게 감소한 3억 1,950만 배럴을 기록했습니다. 전년 동기(4억 300만 배럴) 대비로는 무려 20.7%나 감소한 수치로, 국가 차원의 추가 비축 여력 및 수급 안정성에 대한 지속적인 모니터링이 필요합니다.",
+      "주요 정제유(휘발유 및 디젤) 재고 변동: 총 휘발유 재고는 전주 대비 190만 배럴 감소한 2억 1,210만 배럴(5년 평균 대비 -6%), 디젤 및 난방유를 포함하는 중간 유분 재고는 전주 대비 무려 500만 배럴이나 감소한 1억 360만 배럴(5년 평균 대비 -12%)을 기록했습니다. 제품 재고의 빠른 소진은 드라이빙 시즌의 활발한 소비 수요를 입증합니다.",
+      "석유 제품 공급(Product Supplied, 내수 수요 지표): 지난 4주간 측정된 미국의 총 석유 제품 내수 공급량(수요 대용 지표)은 일평균 2,061.8만 배럴로 전년 동기 대비 0.3% 소폭 증가했습니다. 휘발유 수요는 899.1만 배럴(-2.2% YoY), 중간 유분은 377.8만 배럴(-0.9% YoY)로 다소 둔화된 반면, 제트 연료 수요는 186.9만 배럴로 4.1% 증가하며 항공 여객 수요의 회복세가 돋보였습니다.",
+      "미국 소매 및 도매 유가 현황 지표: 7월 6일 기준 미국 내 평균 일반 휘발유 소매 가격은 갤런당 $3.777로 전주 대비 $0.054 하락했으나 전년 동기 대비로는 여전히 $0.652 높습니다. 고속도로용 디젤 소매 가격 또한 갤런당 $4.578로 전년 대비 $0.839 상승한 고공행진을 보이고 있어 운송 및 물류 부문의 비용 부담 요인으로 작용하고 있습니다.",
+      "원유 생산 및 강력한 수출 모멘텀: 미국 자국 내 원유 생산량은 일평균 1,386만 배럴을 기록해 전년 동기 대비 3.5% 증가한 견고한 생산력을 보였습니다. 또한 총 원유 및 석유 제품 수출량은 일평균 1,199만 배럴로 전년 동기 대비 약 22% 대폭 급증(원유 326만 b/d, 제품 873만 b/d)하며 글로벌 시장에서의 강력한 에너지 수출국 위치를 증명했습니다.",
+      "총 상업용 석유 재고 총괄 수급 분석: 원유, 정제유, 프로판 등을 모두 합산한 미국의 총 상업용 석유 재고(SPR 제외)는 11억 9,760만 배럴로 전주 대비 400만 배럴 감소했으며, 전년 동기 대비로는 3.9% 하락했습니다. 이는 강한 정제 가동률과 견조한 정제유 수출/내수 수요가 재고 축소를 구조적으로 이끌고 있음을 보여줍니다."
+    ],
+    "top_picks": [],
+    "pdf_url": "pdfs/F6G7H8I9J0_2.pdf"
+  },
+  {
+    "id": "K1L2M3N4O5_2",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "[Battery Weekly] 악재는 모두 소화한 가격",
+    "source": "Analyst Report",
+    "insights": [
+      "이차전지 섹터 'Overweight' 투자의견 유지 및 밸류에이션 바닥론: 배터리 산업을 둘러싼 매크로적 악재(광물 가격 하락, 일시적 전기차 수요 둔화 캐즘, 기업들의 대규모 유상증자 등)가 주가에 이미 모두 충분히 소화 및 반영(Priced-in)되었다고 판단합니다. 특히 LG에너지솔루션 등 대형 셀 메이커들의 현 주가는 부정적 실적 추정치마저 모두 선반영한 완벽한 밸류에이션 바닥 구간으로, 비중 확대 전략을 강력히 권고합니다.",
+      "ESS(에너지저장장치) 시장의 폭발적 어닝 모멘텀과 호실적 기대: 2분기 Tesla의 ESS 신규 설치량은 13.5GWh로 전년 동기 대비 41% 급증하며 사상 최대치를 경신했습니다. 연초 계획 수립 후 하반기에 발주가 더욱 쏠리는 ESS 산업의 구조적 특성을 감안할 때 분기별 우상향 추세가 뚜렷하며, 삼성SDI와 LG에너지솔루션 등 국내 셀 메이커의 하반기 ESS용 턴어라운드 및 실적 상향을 강하게 견인할 것입니다.",
+      "주요 완성차 시장의 EV 출하량 반등 징후 포착: 5월 글로벌 전기차(BEV+PHEV) 판매량은 전년 대비 7% 증가한 185.3만 대를 기록했습니다. 미국의 판매량 부진(-33% YoY)에도 불구하고, 유럽 지역 전기차 판매량이 41.7만 대로 26% 성장하며 글로벌 수요를 방어했습니다. 특히 LG에너지솔루션의 5월 유럽 전기차 배터리 출하량이 테슬라 판매 호조에 힘입어 전년 대비 22% 급증하는 등 3개월 연속 20%대 고성장을 기록 중입니다.",
+      "K-배터리 수출 데이터의 믹스 개선 및 단가 방어: 6월 2차전지 전체 수출액은 7억 달러로 전년 동기 대비 17.5% 반등했습니다. 특히 전기차용 리튬이온전지 수출액은 21.8% 증가했고, ESS용 배터리는 수출 단가가 전년 대비 무려 49.2% 급등한 32.6달러/kg을 기록하며, 제품 포트폴리오 믹스 개선을 통한 수익성 방어 능력을 확실하게 증명하고 있습니다.",
+      "리튬 등 핵심 핵심 광물 가격 하락의 제한적 영향: 2026년 리튬 가격이 5월 단기 고점($24.1/kg) 대비 최근 13% 하락 조정되었으며, CATL의 대규모 신규 광산(젠샤워 리튬 광산) 가동 재개 전망이 단기적인 가격 하방 압력을 더하고 있습니다. 그러나 현 리튬 가격은 여전히 연초 1분기 말 바닥 시점보다는 높은 수준을 유지하고 있어, 양극재 및 셀 메이커들의 대규모 재고평가손실이나 실적 추정치 하향을 야기할 만한 악재가 아닙니다.",
+      "2차전지 밸류체인 내 대규모 자금 조달(유상증자) 리스크 해소 국면: 에코프로비엠이 시가총액의 약 10%에 달하는 1.2조원 규모의 주주배정 일반공모 유상증자를 발표하며 단기 수급 부담으로 작용했습니다. 하지만 2025년 삼성SDI, 포스코퓨처엠, 엘앤에프의 조달에 이어 이번 에코프로비엠의 2026년 유상증자를 끝으로, 시가총액 5조원 이상의 대형 핵심 소재 및 셀 기업들의 설비투자를 위한 대규모 CAPEX 자금 조달 사이클은 사실상 마무리 국면에 진입했습니다.",
+      "글로벌 완성차 및 배터리 파트너십의 미국 현지화 가속: Ford는 CATL의 LFP 기술을 라이선스하여 미국 내 자체 배터리 공장 완공을 마치고 시험생산을 거쳐 올해 정식 양산에 돌입합니다. 또한 삼성SDI는 미국 반도체 소재 장비 기업 Forge Nano와 3GWh 배터리 공장 설립 파트너십을 체결하고, 서진시스템과 5년간 북미 ESS용 배터리 인클로저 대규모 임가공 계약을 맺는 등 IRA 혜택을 겨냥한 북미 생태계 확장에 박차를 가하고 있습니다.",
+      "차세대 전고체 배터리 상용화를 위한 과감한 승부수: 삼성SDI는 경영 계획 공시를 통해 천안 및 울산 사업장에 전고체 배터리 라인 구축 및 ESS용 LFP 등 차세대 제품군에 2040년까지 총 25조원이라는 천문학적인 규모의 투자 계획을 발표했습니다. 2027년 하반기 전고체 배터리 양산을 목표로 이미 복수의 글로벌 완성차 고객사들과 심도 있는 샘플 평가를 진행 중이며 차세대 폼팩터 주도권 선점에 나섰습니다.",
+      "유럽 및 미국 시장의 LFP(리튬인산철) 배터리 채택 및 M/S 변수: 글로벌 전기차 시장이 가격 경쟁력이 우수한 대중화(Mass) 모델 중심으로 재편되면서 중국 기업(CATL, BYD)이 주도하는 LFP 배터리의 시장 침투율이 지속 상승하고 있습니다. 글로벌 배터리 출하량에서 중국계의 고성장이 이어지는 반면 K-배터리 3사의 출하량 증가세가 다소 둔화되는 추세이므로, 향후 한국 배터리 기업들의 신규 LFP 라인업 조기 양산 및 보급형 세그먼트 공략 속도가 글로벌 점유율 방어의 가장 중요한 촉매가 될 것입니다.",
+      "중국 배터리 굴기와 배터리 순환경제 생태계 독점 시도: CATL은 구글, 폭스바겐, 샤오미 등 글로벌 빅테크 및 자동차 제조사와 함께 '글로벌 배터리 순환경제 프레임워크'를 선도적으로 출범시켰습니다. 2027년까지 배터리의 잔존 가치 평가, 진단, 팩 분해, 재제조 표준 가이드를 제시하여 단순 제조를 넘어 폐배터리 리사이클링 등 배터리 생애주기 전반의 밸류체인 지배력을 굳히려는 강력한 전략적 행보를 보이고 있습니다.",
+      "최선호주(Top Picks) 및 중장기 투자 매력: 배터리 셀 메이커들의 현 주가는 최악의 업황 매크로를 모두 견뎌낸 바닥권 밸류에이션을 확보하고 있습니다. 따라서 향후 매크로 반등 및 금리 인하 사이클이 도래할 경우 강한 이익 레버리지 효과가 예상되며, 가장 돋보이는 펀더멘털을 보유한 LG에너지솔루션과 삼성SDI, 그리고 소재 대장주인 포스코퓨처엠과 에코프로비엠, 엘앤에프에 대한 적극적 비중 확대를 추천합니다."
+    ],
+    "top_picks": [
+      "LG에너지솔루션",
+      "삼성SDI",
+      "포스코퓨처엠",
+      "에코프로비엠",
+      "엘앤에프"
+    ],
+    "pdf_url": "pdfs/K1L2M3N4O5_2.pdf"
+  },
+  {
+    "id": "A7X9B2N4Q1",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "[통신서비스-장비] 7월 22일이 D-Day입니다",
+    "source": "Analyst Report",
+    "insights": [
+      "The US Federal Communications Commission (FCC) is scheduled to vote on whether to auction the 160MHz of the Upper C-band (3.98~4.14GHz) on July 22, 2026. The likelihood of approval is high based on the commission's member composition, and this presents a massive opportunity for domestic wireless communication equipment companies.",
+      "The Upper C-band is highly attractive due to its large allocated frequency bandwidth and its status as a previously unused, unknown frequency band. This guarantees that the network investment scale from US telecommunications companies will be exceptionally large.",
+      "Some investors project the Upper C-band auction price could exceed $70 billion (100 trillion KRW). This astronomical figure is justified by the ability to secure a wideband connection with the existing Lower C-band and the sheer size of the frequency allocation, dwarfing the recent AWS 3-band auction which concluded at around 5 trillion KRW.",
+      "Past obstacles such as frequency interference and opposition have been completely cleared, highlighted by the US Federal Aviation Administration (FAA) officially announcing its support for the Upper C-band auction.",
+      "Historically, new frequency allocations have served as the most significant catalyst for wireless communication equipment stocks, with stock prices typically moving in anticipation of the actual deployment. The confirmation of the auction schedule is the starting signal for the main game, following the prelude of the AWS 3-band auction in June.",
+      "Due to the faster-than-expected progress of the Upper C-band auction, the probability of earnings turning around for domestic wireless equipment companies in 2027 has significantly increased. Actual benefits and rapid earnings improvements are projected to materialize from the first quarter of 2027 following the successful auction.",
+      "Despite the Q2 earnings season and recent sharp market corrections driven by KOSDAQ and US optical communication stock declines, the communication equipment sector remains structurally promising. The stock prices are expected to enter a full-fledged upward trend from late July, making it a highly attractive investment for a 2027 horizon.",
+      "A peak-out concern for domestic wireless equipment stocks is highly unlikely since the industry's fundamental recovery hasn't even begun yet. The stock price increases in the first half of the year were merely pre-reflections of the expectations for a big cycle entering after 2027.",
+      "A sequential flow of positive events is expected: US telecom companies' auction participation, investment plan announcements, equipment vendor selections, actual orders, and subsequent sales generation. This chain of events is projected to sustain upward momentum for domestic telecom equipment stocks until early 2028.",
+      "For telecom service providers, the investment attractiveness is ranked as SKT = LGU+ > KT. SKT is highly recommended due to expected earnings normalization in 2026, full-scale AI RAN business expansion, and high potential to be selected as a national AI project operator.",
+      "LGU+ is favored as a top pick for the Q2 earnings season due to strong earnings improvement and the potential to be highlighted as a stock with increasing shareholder returns.",
+      "For telecom equipment, active purchasing is strongly recommended for companies directly benefiting from Verizon and AT&T's CAPEX increases related to the Upper C-band. Top picks include KMW, RFHIC, and HFR."
+    ],
+    "top_picks": [
+      "KMW",
+      "RFHIC",
+      "HFR",
+      "SKT",
+      "LGU+"
+    ],
+    "pdf_url": "pdfs/A7X9B2N4Q1.pdf"
+  },
+  {
+    "id": "K3M8P5R9T2",
+    "sector": "기타",
+    "date": "2026-07-10",
+    "title": "미국 휴머노이드 로봇 포럼 후기 - 제조 AI가 온다",
+    "source": "Analyst Report",
+    "insights": [
+      "The Automate 2026 event marked a critical paradigm shift, revealing that the market's core focus is transitioning from the physical performance and sales volume of humanoid robots to the broader concept of 'Manufacturing AI' (제조 AI).",
+      "Keynote speakers at the forum consistently emphasized 'Operation' over 'Hardware', 'Factory' over 'Robot', 'Learning' over 'AI Model', and 'Platform' over 'Product', indicating a structural change in how robotic automation is perceived and implemented.",
+      "Humanoid robots are increasingly viewed not as standalone, independent products, but as an 'Execution Layer' designed to implement Manufacturing AI physically. The ultimate competitiveness of the manufacturing sector now relies on how efficiently factories can be operated using AI, rather than just manufacturing superior robots.",
+      "The core competitiveness of the humanoid industry is now determined by 'Deployment' rather than just 'Hardware'. As the industry moves past the technology verification stage into early commercialization, success hinges on how rapidly these systems can be applied to actual manufacturing sites and how much operational experience can be accumulated.",
+      "'Deployment' is redefined as more than simple installation; it is the critical process of concurrently accumulating operational data and AI performance. On-site operational data continuously trains the AI, creating a 'Data Flywheel' effect where improved AI is subsequently deployed across more processes, compounding efficiency gains.",
+      "The future entry barriers in the humanoid and robotic automation industry will likely be established by the speed of data accumulation and operational experience, which will prove to be a much more formidable moat than pure hardware engineering technology.",
+      "Historically, monumental innovations in the automotive industry originated in the factory itself, such as Ford's Assembly Line and Tesla's Gigafactory, rather than just the vehicle product. Manufacturing AI represents the next monumental leap, shifting the innovation target from production equipment to a data-driven, self-learning 'Factory Operating System'.",
+      "Manufacturing AI is not primarily about building entirely new factories, but rather maximizing the productivity and efficiency of existing facilities. This is achieved by drastically improving key factory KPIs such as OEE (Overall Equipment Effectiveness), FPY (First Pass Yield), and Cycle Time.",
+      "Improvements in factory KPIs through Manufacturing AI will directly translate into tangible financial performance metrics, driving improvements in OPM (Operating Profit Margin), ROIC (Return on Invested Capital), and EPS (Earnings Per Share). The true economic value of Manufacturing AI lies in these operational efficiency gains rather than simple robot hardware sales.",
+      "Hyundai Motor is highlighted as a Top-Pick, as the company is expected to be the greatest beneficiary of factory KPI improvements and subsequent valuation re-rating driven by the internal development and application of Manufacturing AI.",
+      "Hyundai AutoEver is also designated as a Top-Pick, with its mid-to-long-term growth potential heavily highlighted. The company is positioned as the core platform provider responsible for E-FOREST and factory AI software within the Hyundai Motor Group.",
+      "Other notable companies in the Manufacturing AI value chain include Hyundai Mobis (providing manufacturing AI hardware foundations), Robotis (evolving into a robot data platform through 점 actuators expertise), and CMES Robotics (providing AI vision-based manufacturing AI solutions)."
+    ],
+    "top_picks": [
+      "현대차",
+      "현대오토에버",
+      "현대모비스",
+      "로보티즈",
+      "씨메스로보틱스"
+    ],
+    "pdf_url": "pdfs/K3M8P5R9T2.pdf"
+  },
+  {
     "id": "a9b8c7d6e5",
     "sector": "IT_전기전자",
     "date": "2026-07-09",
