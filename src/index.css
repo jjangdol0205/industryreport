@@ -83,6 +83,15 @@ body {
   margin-bottom: 3rem;
 }
 
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
 .header h1 {
   font-size: 2.5rem;
   font-weight: 700;
@@ -92,6 +101,60 @@ body {
 .header p {
   color: var(--text-muted);
   font-size: 1.1rem;
+}
+
+/* 검색창 */
+.search-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 480px;
+  padding: 0.75rem 2.8rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  color: var(--text-main);
+  font-size: 1rem;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.search-input:focus {
+  border-color: var(--accent-color);
+  background: rgba(99, 102, 241, 0.05);
+}
+
+.search-clear {
+  position: absolute;
+  right: 0.8rem;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  transition: color 0.2s;
+}
+
+.search-clear:hover {
+  color: var(--text-main);
 }
 
 .timeline {
@@ -205,8 +268,35 @@ body {
   line-height: 1.5;
 }
 
+/* 더 보기 버튼 */
+.expand-button {
+  display: block;
+  margin: 1.5rem auto 0;
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text-muted);
+  padding: 0.5rem 1.5rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.expand-button:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-main);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.expand-button.expanded {
+  color: var(--accent-hover);
+  border-color: rgba(99, 102, 241, 0.3);
+}
+
 .top-picks {
-  margin-top: 2.5rem;
+  margin-top: 2rem;
   padding-top: 1.5rem;
   border-top: 1px dashed rgba(255, 255, 255, 0.05);
   display: flex;
@@ -218,6 +308,7 @@ body {
   color: var(--text-muted);
   font-weight: 600;
   margin-top: 0.4rem;
+  white-space: nowrap;
 }
 
 .picks-container {
@@ -338,12 +429,21 @@ body {
     overflow-y: visible;
   }
 
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
   .header h1 {
     font-size: 2rem;
   }
 
   .header p {
     font-size: 1rem;
+  }
+
+  .search-input {
+    max-width: 100%;
   }
 
   .card {
