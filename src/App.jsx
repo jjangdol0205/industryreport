@@ -4,10 +4,8 @@ import './index.css';
 
 // 마크다운 볼드(**text**) 파싱
 function parseBold(text) {
-  const parts = text.split(/\*\*(.*?)\*\*/g);
-  return parts.map((part, i) =>
-    i % 2 === 1 ? <strong key={i}>{part}</strong> : part
-  );
+  const html = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  return <span dangerouslySetInnerHTML={{ __html: html }} />;
 }
 
 // 날짜 포맷: "2026-07-10" → "2026년 7월 10일 (목)"
